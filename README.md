@@ -234,7 +234,7 @@ Please note that:
   
 3. A total of **200 API keys** are available and will be distributed on a **first-come, first-served basis while supplies last**.
   
-4. Upon approval, you will receive your API key by email with an initial allocation of **100 USD**. A later top-up is planned for the same key to bring its cumulative total allocation to **200 USD** (100 USD initially plus 100 USD later, not an additional 200 USD). The top-up timing will be communicated separately.
+4. Upon approval, you will receive an email with api key in it. The limit would be 40 CAD.
   
 5. Teams that receive the sponsored API credit are expected to **submit their project to the Huawei OMNI LIVE Challenge track**.
 
