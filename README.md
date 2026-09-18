@@ -230,14 +230,17 @@ Please note that:
 
 1. We provide OMNI model API Credit through yibuapi, check out more at https://yibuapi.com/pricing
   
-2. Each team may apply **only once**. Please do not submit duplicate requests.
+2. Each team may apply **only once**. Enter the applicant's name in the Name field and list all other team members in Team Members. One allocation covers the applicant and all listed team members; no person may receive another allocation through a separate application, whether as an applicant or a listed member. Please do not submit duplicate requests.
   
 3. A total of **200 API keys** are available and will be distributed on a **first-come, first-served basis while supplies last**.
   
-4. Upon approval, you will receive an email with api key in it. The limit would be 40 CAD.
+4. Upon approval, you will receive your API key by email with an initial allocation of **100 USD**. A later top-up is planned for the same key to bring its cumulative total allocation to **200 USD** (100 USD initially plus 100 USD later, not an additional 200 USD). The top-up timing will be communicated separately.
   
 5. Teams that receive the sponsored API credit are expected to **submit their project to the Huawei OMNI LIVE Challenge track**.
-  
+
+### API Examples and Usage Reporting
+
+Download the [Python examples package](examples/yibuapi_examples_20260918_v01.tar.gz?raw=true), which includes a local usage logger and summary tool. Your API key is delivered privately by email, together with a link to the [Yibu API usage reporting guide](docs/yibuapi-usage-reporting.md). Please record your sponsored API usage, then reply to the email that delivered your API key and attach the usage summaries by **September 20, 2026, 11:59 PM EDT (America/Toronto)**. The guide covers setup, token accounting, reporting files, and privacy checks.
 
 ---
 
