@@ -4,7 +4,7 @@ Use the [Python examples package](../examples/yibuapi_examples_20260918_v01.tar.
 
 The instructions below apply to `yibuapi_examples_20260918_v01.tar.gz`. Download it using the link above; if GitHub opens the archive's file page, choose **Download raw file** to save the archive.
 
-Refer to your key-delivery email for your allocation details and to the organizers' subsequent notice for the planned top-up timing.
+Refer to your key-delivery email for your allocation details.
 
 Submit only one application per team. Enter the applicant's name in the Name field and list all other members in Team Members. The allocation covers all of those people; a person already covered by an allocation must not request another one as an applicant or as a member of another application.
 
